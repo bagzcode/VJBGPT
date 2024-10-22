@@ -32,7 +32,7 @@ This repository contains a chatbot application that uses OpenAI's GPT-3.5-turbo 
    ```bash
    python model.py
 
-   This will launch a web interface where you can ask questions about Batik Lasem designs.
+This will launch a web interface where you can ask questions about Batik Lasem designs.
 
 ## License
 This project is licensed under the MIT License.
