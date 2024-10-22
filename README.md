@@ -27,7 +27,7 @@ This repository contains a chatbot application that uses OpenAI's GPT-3.5-turbo 
    - Replace [PUT_YOUR_OPENAI_KEY_HERE] in model.py with your OpenAI API key.
    - Alternatively, you can use a .env file. Uncomment the .env related lines in the script and add the following to a .env file:
    ```bash
-   OPENAI_API_KEY=your-api-key-here
+   OPENAI_API_KEY=[PUT_YOUR_OPENAI_KEY_HERE]
 4. **Run the Application:** Start the chatbot by running the model.py script:
    ```bash
    python model.py
