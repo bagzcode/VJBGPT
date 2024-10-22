@@ -18,7 +18,7 @@ This repository contains a chatbot application that uses OpenAI's GPT-3.5-turbo 
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-repo/batik-chatbot.git
+   git clone [https://github.com/bagzcode/VJBGPT.git](https://github.com/bagzcode/VJBGPT.git)
    cd batik-chatbot
 2. **Install Dependencies:** Install the required Python packages by running:
    ```bash
@@ -36,3 +36,9 @@ This will launch a web interface where you can ask questions about Batik Lasem d
 
 ## License
 This project is licensed under the MIT License.
+
+### Key Additions:
+- Included a section on setting up a virtual environment using both `venv` and `conda`.
+- Provided commands to create and activate the virtual environment before installing dependencies.
+
+This should help users set up the project environment correctly!
